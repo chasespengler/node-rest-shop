@@ -1,0 +1,1 @@
+Simple eCommerce platform built to utilize the NodeJS framework.
